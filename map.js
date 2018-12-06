@@ -3,8 +3,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibGV3aXNzbWFsbHdvb2QiLCJhIjoiY2pwY3hiNmc1MzF2e
 // Define a map centered on Europe.
 var map = new mapboxgl.Map({
     container: 'map', // container id
-    style: 'mapbox://styles/lewissmallwood/cjpcysjeo4dcn2rqrqkl7268i',
-    center: [-4.141137, 50.374992],
+    style: 'mapbox://styles/lewissmallwood/cjpd0ih690qq92spg8jchim8g',
+    center: [-3.10293, 51.01494],
     zoom: 6
 });
 
